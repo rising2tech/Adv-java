@@ -15,9 +15,8 @@ You can copy-paste and edit if you want.
 
 ---
 
-## 📄 README.md (suggested content)
-
 # JDBC MySQL Connection Demo (Java)
+## JdbcPro1ConnectionToMySQLDB
 
 This project shows how to connect a **Java application** to a **MySQL database** using **JDBC**.
 
@@ -174,16 +173,3 @@ Connected Successfully!
 - Update & delete records
 - Use PreparedStatement
 - Create CRUD console application
-
----
-
-### 👍 If you want
-
-I can also:
-
-- write **README in GitHub style formatting**
-- add **screenshots section**
-- add **insert/select CRUD code**
-- generate **full project description for internship / resume**
-
-Just tell me: **“add CRUD code”** or **“make GitHub README”**
